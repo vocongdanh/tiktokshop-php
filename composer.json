@@ -1,5 +1,5 @@
 {
-  "name": "vocongdanh/tiktokshop-php",
+  "name": "nvuln/tiktokshop-php",
   "description": "Unofficial Tiktok Shop API Client in PHP",
   "type": "library",
   "license": "Apache-2.0",
@@ -20,12 +20,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Vocongdanh\\TiktokShop\\": "src"
+      "NVuln\\TiktokShop\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Vocongdanh\\TiktokShop\\Tests\\": "tests"
+      "NVuln\\TiktokShop\\Tests\\": "tests"
     }
   },
   "scripts": {
