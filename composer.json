@@ -20,12 +20,12 @@
   },
   "autoload": {
     "psr-4": {
-      "NVuln\\TiktokShop\\": "src"
+      "Vocongdanh\\TiktokShop\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "NVuln\\TiktokShop\\Tests\\": "tests"
+      "Vocongdanh\\TiktokShop\\Tests\\": "tests"
     }
   },
   "scripts": {
